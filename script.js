@@ -1,3 +1,5 @@
+
+// this is the main script
 let display = document.getElementById("display");
 
 function appendToDisplay(value) {
